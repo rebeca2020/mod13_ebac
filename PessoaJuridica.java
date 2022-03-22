@@ -1,4 +1,4 @@
-package br.com.exercicio;
+//package br.com.exercicio;
 
 public class PessoaJuridica extends Pessoa {
 	
