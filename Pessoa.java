@@ -1,4 +1,4 @@
-package br.com.exercicio;
+//package br.com.exercicio;
 
 public abstract class Pessoa {
 
