@@ -1,4 +1,4 @@
-package br.com.exercicio;
+//package br.com.exercicio;
 
 public class Programa_exercicio {
 
@@ -18,7 +18,7 @@ public class Programa_exercicio {
 		pj.setNome("Bruno");
 		pj.setTelefone(24554421l);
 		pj.setCnpj("31.336.323-7");
-		pj.setEndereco("Rua jo„o santos, 45");
+		pj.setEndereco("Rua jo√£o santos, 45");
 		imprimir(pj);
 		
 	
@@ -28,7 +28,7 @@ public class Programa_exercicio {
 		
 		if(pessoa instanceof Pessoa ) {
 			Pessoa pesFis = (Pessoa) pessoa; //faz o casting
-			System.out.println("Telefone do(a) " + pessoa.getNome() + " È " + pessoa.getTelefone()  + " e o endereÁo È: " + pessoa.getEndereco());
+			System.out.println("Telefone do(a) " + pessoa.getNome() + " √© " + pessoa.getTelefone()  + " e o endere√ßo √©: " + pessoa.getEndereco());
 		}
 	
 	}
